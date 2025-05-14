@@ -1,0 +1,18 @@
+{
+  "name": "02reactproject",
+  "version": "1.0.0",
+  "description": "Igniting Our App Episode 2",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.0"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
